@@ -1,8 +1,10 @@
 header{ 
   background-color:#d9b99b
-
 }
 
+ul.no-bullets {
+  list-style-type: none
+}
 body {
   background-color:#faf0e6 ;
 }
