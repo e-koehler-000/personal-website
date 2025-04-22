@@ -3,7 +3,8 @@ header{
 }
 
 div{ background: #5C4033
-  display: inline }
+  display: inline 
+   float: right}
 body {
   background-color:#faf0e6 ;
 }
