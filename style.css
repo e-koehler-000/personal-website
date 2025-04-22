@@ -2,9 +2,9 @@ header{
   background-color:#d9b99b
 }
 
-div{ background: #5C4033
-  display: inline 
-   float: right}
+div{background-color: #5C4033
+  display: block 
+ }
 body {
   background-color:#faf0e6 ;
 }
