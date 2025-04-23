@@ -79,6 +79,8 @@ p { color: black;
 .container > div.header {
   grid-area: header;
   text-align: center;
+  font-size:45px;
+   font-family: Arial, Helvetica, sans-serif;
 }
 .container > div.aboutmepar {
   background-color: black;
