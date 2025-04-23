@@ -76,10 +76,10 @@ h1 {
   text-align: center;
 }
 .container > div.aboutmepar {
-  grid-area: menu;
+  grid-area: aboutmepar;
 }
 .container > div.profilepic {
-  grid-area: content;
+  grid-area: profilepic;
 }
 .container > div.footer {
   grid-area: footer;
