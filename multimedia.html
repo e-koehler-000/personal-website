@@ -15,30 +15,56 @@
        <a class="active" href="about.html">Resume</a>
         </div>
     </div>
+
+    <style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
     
   </header>
   
-<section>
 <h1>Multimedia Projects</h1>
 <p>description</p>
   
-
-  <h2>"Hands off" Protest Coverage </h2>
-  <p>description </p>
+<div class="row">
+  <div class="column" style="background-color:#aaa;">
+    <h2>"Hands off" Protest Coverage</h2>
+    <p>description </p>
 <p>Instagram</p>
   <p>Twitter</p>
   <p>Tik Tok</p>
   <p>Article</p>
-  
- <img src=crowdpan.jpg style="float:right" width="1020" height="768" > 
-  <hr>
-  <h2><a href="https://vimeo.com/1039332751?share=copy"> A Look in The Goal: Kate Silverstein of GWU Womens Soccer</a></h2>
-  <p> For this class project I used industry standard equipment to film b-roll and record an interview of Kate. Adobe Premiere pro was used to edit the sequencing, audio, transitions and coloring of the video. </p>
+     <img src=crowdpan.jpg style="float:right" width="1020" height="768" >
+  </div>
+
+    <div class="column" style="background-color:#bbb;">
+    <h2><a href="https://vimeo.com/1039332751?share=copy"> A Look in The Goal: Kate Silverstein of GWU Womens Soccer</a></h2>
+    <p> For this project I used industry standard equipment to film b-roll and record an interview of Kate. Adobe Premiere pro was used to edit the sequencing, audio, transitions and coloring of the video. </p>
  <img src=kate.jpg style="float:left" width="400" height="400" > 
-<hr>
-</section>
+
+  </div>
+</div>
   
-<section></section>
-  <footer>  </footer>
+ 
+
+  
+  
+  
 </body>
 </html>
