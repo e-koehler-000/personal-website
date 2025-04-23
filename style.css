@@ -52,14 +52,6 @@ h2 { color: black;
   margin-right: auto;
   width: 65%;
 }
-.vl {
-  border-left: 6px black;
-  height: 500px;
-  position: absolute;
-  left: 50%;
-  margin-left: -3px;
-  top: 0;
-}
 
 .aboutmepar { background-color:#8a6a5b ;
           color: white;}
