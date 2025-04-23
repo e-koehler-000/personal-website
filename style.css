@@ -86,3 +86,6 @@ h2 { color: black;
   grid-area: footer;
 }
 
+.centered-text {
+       text-align: center;
+   }
