@@ -55,3 +55,15 @@ h1 {
 
 .aboutmepar { background-color:#8a6a5b ;
           color: white;}
+
+.container {
+  display: grid;
+  grid-template-areas:
+    "header header"
+    "menu content"
+    "footer footer";
+  grid-template-columns: 1fr 3fr;
+  gap: 5px;
+  background-color: #2196F3;
+  padding: 5px;
+}
