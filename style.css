@@ -89,9 +89,6 @@ p {    font-size: 16px;
 .container > div.profilepic {
   grid-area: profilepic;
 }
-.container > div.footer {
-  grid-area: footer;
-}
 
 .centered-text {
        text-align: center;
