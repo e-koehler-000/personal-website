@@ -97,7 +97,7 @@ p {    font-size: 16px;
        text-align: center;
    }
 
-.titlelinks a:link, a:visited {
+.titlelinks a:link {
   background-color: white;
   color: black;
   border: 2px solid green;
@@ -107,7 +107,20 @@ p {    font-size: 16px;
   display: inline-block;
 }
 
-.titlelinks a:hover, a:active {
+.titlelinks a:visited {   background-color: white;
+  color: black;
+  border: 2px solid green;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.titlelinks a:hover {
   background-color: green;
+  color: white;
+}
+
+.titlelinks a:active { background-color: green;
   color: white;
 }
