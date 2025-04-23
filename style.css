@@ -115,11 +115,11 @@ p {    font-size: 16px;
 }
 
 .titlelinks a:hover {
-  background-color: green;
+  background-color: #C4A494;
   color: white;
 }
 
-.titlelinks a:active { background-color: green;
+.titlelinks a:active { background-color: #C4A494;
   color: white;
 }
 
