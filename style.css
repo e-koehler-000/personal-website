@@ -82,7 +82,7 @@ p {    font-size: 22px;
    font-family: Arial, Helvetica, sans-serif;
 }
 .container > div.aboutmepar {
-  background-color: black;
+  background-color: #525252;
   grid-area: aboutmepar;
   
 }
