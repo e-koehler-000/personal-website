@@ -107,7 +107,7 @@ p {    font-size: 16px;
 
 .titlelinks a:visited {   background-color: white;
   color: black;
-  border: 2px solid green;
+  border: 2px #C4A494;
   padding: 10px 20px;
   text-align: center;
   text-decoration: none;
