@@ -68,8 +68,9 @@ p {    font-size: 16px;
 
 .aboutmepar { background-color:#B78C83;
           color: white;
+             font-size: 20px;
             padding: 30px;
-  border: 1px solid #4CAF50 }
+  border: 10px solid white }
 
 
 .titlelinks a:link {
