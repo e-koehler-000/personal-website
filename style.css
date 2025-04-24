@@ -59,6 +59,13 @@ p {    font-size: 16px;
 
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 65%;
+}
+
 
 .aboutmepar { background-color:#B78C83;
           color: white;}
