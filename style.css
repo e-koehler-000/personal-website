@@ -74,7 +74,7 @@ p {    font-size: 18px;
 
 .aboutmepar { background-color:#B78C83;
           color: white;
-             font-size: 20px;
+             font-size: 20px !important;
             padding: 30px;
   border: 10px solid white }
 
